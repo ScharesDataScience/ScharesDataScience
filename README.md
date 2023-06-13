@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 Schares Data Science is an academic publishing consultant that helps libraries better understand their data. 📊 📈 📄 📘 📑
 
 We have experience using data science techniques to analyze usage, create data visualizations, custom graphs and dashboards, and 
