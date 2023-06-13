@@ -1,5 +1,5 @@
 ### Hi there 👋
-Schares Data Science is an academic publishing consultant that helps libraries better understand their data. 
+Schares Data Science is an academic publishing consultant that helps libraries better understand their data. 📊 📈 📄 📘 📑
 Experience analyzing data, creating graphs and visualizations, 
 
 Find the publishing profile of your institution.
