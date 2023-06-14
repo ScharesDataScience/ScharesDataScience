@@ -1,9 +1,9 @@
 ### Welcome 👋
 Schares Data Science is an academic publishing consultant that helps libraries better understand their data. 📊 📈 📄 📘 📑
 
-We have experience using data science techniques to analyze usage, create data visualizations, custom graphs and dashboards, and more.
+With experience using data science techniques to analyze usage, create data visualizations, custom graphs and dashboards, and more, we can help:
 - Find the publishing profile of your institution.
-- Get help using and understanding Unsub.
+- Use and understand [text](link)Unsub.
 - Investigate how your campus could be affected by recent Open Access mandates such as the OSTP Nelson Memo.
 
 ## Connect
