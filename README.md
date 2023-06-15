@@ -2,14 +2,17 @@
 Schares Data Science is an academic publishing consultant that helps libraries better understand their data. 📊 📈 📄 📘 📑
 
 With experience using data science techniques to analyze usage, create data visualizations, custom graphs and dashboards, and more, we can help:
-- Find the publishing profile of your institution.
 - Use and understand [Unsub](https://unsub.org/).
-- Investigate how your campus could be affected by recent Open Access mandates such as the OSTP Nelson Memo.
+- Find the publishing profile of your institution.
+- See what fraction of your publications are Open Access.
+- Anticipate how you could be affected by the recent OSTP memo
+- See the top journals on your campus, based on authorship, citations, and usage numbers
+- Validate publishing data to prepare for an OA agreement
 
 ## Connect
 [<img align="left" alt="email" src="https://img.shields.io/badge/email-38D6E5?style=for-the-badge&logo=gmail" />](mailto:scharesdatascience@gmail.com)
 
-[<img align="left" alt="website" src="https://img.shields.io/badge/website-%26%20CV-red?style=for-the-badge&logo=GitHub" />](https://scharesdatascience.github.io/)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%26%20CV-red?style=for-the-badge&logo=GitHub" />](https://scharesdatascience.weebly.com/)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eric-schares-9842989b/)
 
