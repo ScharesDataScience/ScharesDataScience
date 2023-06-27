@@ -12,7 +12,7 @@ With experience using data science techniques to analyze usage, create data visu
 ## Connect
 [<img align="left" alt="email" src="https://img.shields.io/badge/email-38D6E5?style=for-the-badge&logo=gmail" />](mailto:scharesdatascience@gmail.com)
 
-[<img align="left" alt="website" src="https://img.shields.io/badge/website-%26%20CV-red?style=for-the-badge&logo=GitHub" />](https://scharesdatascience.weebly.com/)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%26%20CV-red?style=for-the-badge&logo=GitHub" />](https://www.scharesdatascience.com/)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eric-schares-9842989b/)
 
